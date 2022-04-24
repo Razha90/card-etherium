@@ -1,0 +1,61 @@
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+#border-blue {
+    background-color:#15273f ;
+    border-radius: 10px;
+    width: 250px;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+}
+
+#card-focus {
+    display: block;
+    width: 250px;
+    height: auto;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.teks-1 {
+    color: #cddae8;
+}
+
+.teks-2 {
+    color: #445774;
+}
+.clearfix::after {
+    display: block;
+    content: "";
+    clear: both;
+}
+.float-left {
+    float: left;
+}
+.float {
+    float: right;
+}
+
+#profile {
+    width: 30px;
+}
+
+.teks-3 {
+    color: 
+    #27f6f6;
+}
+
+.posisi {
+    font-size: 15px;
+    margin-left: 5px;
+    position: relative;
+    top: -1px;
+}
+
+.posisi-2 {
+    position: relative;
+    top: -10px;
+    margin-left: 5px;
+}
